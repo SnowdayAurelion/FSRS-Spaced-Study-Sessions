@@ -35,12 +35,12 @@ To customize your parameters, use the [FSRS Visualizer](https://open-spaced-repe
 
 ### Instructions
 #### Windows
-1. Download this GitHub respository by [cloning](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) or downloading it as a ZIP.
+1. Download this GitHub respository by [cloning](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) or download it as a ZIP.
 2. Double click `setup_Windows.bat` to install virtual Python environment and dependencies.
 3. To run the code, double click `run.bat`. You can make this as a short-cut for easier access.
 
 #### Mac
-1. Download this GitHub respository by [cloning](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) or downloading it as a ZIP.
+1. Download this GitHub respository by [cloning](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) or download it as a ZIP.
 2. Open a terminal and navigate to project's directory. Run the lines below:
 ```sh
 chmod +x setup_Mac.sh
