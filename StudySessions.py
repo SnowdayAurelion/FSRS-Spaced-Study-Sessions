@@ -56,7 +56,7 @@ class StudySessions:
                 else:
                     print(f"Error: A cell is not coloured for topic {topic}")
                     sys.exit(1)
-                    return 2 # default to good
+                    return 2 # default is good
                 
             difficulty = [colour_to_difficulty(i) for i in colour]
 
