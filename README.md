@@ -4,7 +4,9 @@
 Open the `data` folder to access your `SpacingTable.xlsx`. Under **Topic**, write your topics per row. Under **Encoded**, write the date when you first learned the topic. A topic could be considered encoded after covering it in a lecture or from a self-study session. Use the `CTRL + ;` hotkey to insert a date.
 
 Then rate your confidence in the study session by highlighting the cell using Excel's standard colors:
-![[Pasted image 20240715223325.png]]
+
+![image](https://github.com/user-attachments/assets/14cf9c1a-75eb-4de2-91bd-074c50b45d2e)
+
 - Green for Easy
 - Yellow for Good
 - Red for Hard
