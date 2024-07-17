@@ -1,4 +1,4 @@
-# StudySessionsFSRS
+# FSRS Spaced Study Sessions
 ## Usage
 ### Topic Encoded
 Open the `data` folder to access your `SpacingTable.xlsx`. Under **Topic**, write your topics per row. Under **Encoded**, write the date when you first learned the topic. A topic could be considered encoded after covering it in a lecture or from a self-study session. Use the `CTRL + ;` hotkey to insert a date.
