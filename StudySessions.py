@@ -67,7 +67,7 @@ class StudySessions:
             table[topic] = [dates,difficulty]
 
         if not table:
-            print("Error: No data in spacing table")
+            print("Error: No data in spacing table. Please go in the data folder and add your topics to the SpacingTable.xlsx")
             sys.exit(1)
         
         return table
